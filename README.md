@@ -5,3 +5,5 @@ Este proyecto presenta el diseño y prototipado de un sistema de bajo costo basa
 Las pruebas de campo se realizaron en condiciones reales durante 7 jornadas escolares. Los resultados mostraron que los niveles de CO2 alcanzaron valores superiores a 1500 ppm en sesiones con alta ocupación y poca ventilación. También se registraron niveles de ruido superiores a los 50 dB SPL, alcanzando en algunos casos más de 100 dB SPL. La dosimetría sonora y la visualización en la nube permitieron interpretar el comportamiento ambiental del aula y facilitar la toma de decisiones por parte del docente investigador. El sistema cumplió su objetivo con precisión, ofreciendo una herramienta accesible, replicable, con un costo de fabricación de aproximadamente US$29.23, y enmarcada en la línea de investigación en automatización y herramientas lógicas. 
 
 *Palabras clave: ESP32, CO2, Ruido, Aula, ThingSpeak, WhatsApp*
+
+Todos los derechos reservados
