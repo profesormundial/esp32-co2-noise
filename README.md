@@ -7,4 +7,5 @@ Las pruebas de campo se realizaron en condiciones reales durante 7 jornadas esco
 *Palabras clave: ESP32, CO2, Ruido, Aula, ThingSpeak, WhatsApp*
 
 Diego Alexander Fonseca
+
 Todos los derechos reservados
