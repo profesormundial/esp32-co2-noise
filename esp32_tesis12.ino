@@ -168,14 +168,8 @@ void sensar_oled() {
   display.print("ppm");
   
   display.setTextSize(2);
-  display.setCursor(80,0); //Establecer las coordenadas y texto de temperatura
-  display.print(t,0);
-  display.setTextSize(1);
-  display.print("C"); 
-  
-  display.setTextSize(2);
-  display.setCursor(80,16); //Establecer las coordenadas y texto de humedad relativa
-  display.print(h,0);
+  display.setCursor(80,16); //Establecer las coordenadas y texto de dosis
+  display.print(dosis,0);
   display.setTextSize(1);
   display.print("%");
 
