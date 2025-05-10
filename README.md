@@ -6,11 +6,14 @@ Las pruebas de campo se realizaron en condiciones reales durante 7 jornadas esco
 
 *Palabras clave: ESP32, CO2, Ruido, Aula, ThingSpeak, WhatsApp*
 
-DATA CALIBRACIÓN
-https://docs.google.com/spreadsheets/d/1ewTRGTV6pyz7rSBkRCYbqBNqwdV0pVQ3TlwAcdi6qx4/edit?usp=sharing 
+>[!IMPORTANT]
+>DATA CALIBRACIÓN
+>https://docs.google.com/spreadsheets/d/1ewTRGTV6pyz7rSBkRCYbqBNqwdV0pVQ3TlwAcdi6qx4/edit?usp=sharing
+>DATA THINGSPEAK
+>https://docs.google.com/spreadsheets/d/1fV2sr9jItipNWUdPTNSpUzUsvMA_-qq-z9VmyYO-v4k/edit?usp=sharing 
 
-DATA THINGSPEAK
-https://docs.google.com/spreadsheets/d/1fV2sr9jItipNWUdPTNSpUzUsvMA_-qq-z9VmyYO-v4k/edit?usp=sharing 
+
+
 
 
 Diego Alexander Fonseca
