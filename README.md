@@ -16,6 +16,5 @@ Las pruebas de campo se realizaron en condiciones reales durante 7 jornadas esco
 
 
 
-Diego Alexander Fonseca
-
+# Diego Alexander Fonseca
 Todos los derechos reservados
